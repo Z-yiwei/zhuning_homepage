@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Ning Zhu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ning
+last_name: Zhu
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,35 +23,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: B.Eng EE @UESTC & UoG
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Glasgow College, University of Electronic Science and Technology of China
+    url: https://www.gla.uestc.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:zhuning0519@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Z-yiwei
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ning-zhu-88123b349/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=QEwSuO0AAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0002-9688-2062
 
 interests:
-  - Large Language Models
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Medical Image Computing
+  - Active Learning
+  - Anomaly Detection
 
 education:
   - area: PhD Computer Science (AI Focus)
