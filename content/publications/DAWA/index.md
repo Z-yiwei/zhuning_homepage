@@ -1,5 +1,5 @@
 ---
-title: "Deep adaptive wavelet autoencoder with mutually independent empirical cumulative distribution for unsupervised motor anomaly detection"
+title: "Deep Adaptive Wavelet Autoencoder with Mutually Independent Empirical Cumulative Distribution for Unsupervised Motor Anomaly Detection"
 
 authors:
 - Pinze Ren
