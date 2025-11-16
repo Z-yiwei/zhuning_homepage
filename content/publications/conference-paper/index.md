@@ -1,17 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'CSAL-3D: Cold-Start Active Learning for 3D Medical Image Segmentation via SSL-Driven Uncertainty-Reinforced Diversity Sampling'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - test
+  - Ping Ye
+  - Lanfeng Zhong
+  - Qiang Yue
+  - Shaoting Zhang
+  - Guotai Wang
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2025-07-01T00:00:00Z'
 
@@ -42,7 +46,7 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    doi: 10.1007/978-3-032-04937-7_12
 
 # Custom links
 links:
