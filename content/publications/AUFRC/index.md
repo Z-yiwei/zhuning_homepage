@@ -31,7 +31,7 @@ abstract: Photovoltaic (PV) power generation has risen prominently across the gl
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Anomaly Detection
 featured: true
 
 hugoblox:

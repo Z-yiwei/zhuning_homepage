@@ -29,7 +29,7 @@ abstract: Vibration signal anomaly detection plays a vital role in predictive ma
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Anomaly Detection
 featured: true
 
 hugoblox:

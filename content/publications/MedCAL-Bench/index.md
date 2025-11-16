@@ -5,6 +5,11 @@ authors:
 - Xiaochuan Ma
 - Shaoting Zhang
 - Guotai Wang
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: "2025-10-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
