@@ -6,7 +6,7 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - test
 
 # Author notes (optional)
 author_notes:
@@ -29,8 +29,8 @@ publication_short: In *MICCAI 2025*
 
 abstract: Active Learning (AL) is a promising solution in medical image segmentation to reduce annotation costs by selecting the most informative training samples. However, traditional warm-start AL methods rely on iterative querying and fail to address the cold-start dilemma. While Cold-Start Active Learning (CSAL) attempts to resolve this, current methods are limited to 2D images and neglect Self-Supervised Learning (SSL)’s potential for uncertainty estimation in AL. Moreover, while hybrid uncertainty-diversity sampling has been discussed in warm-start setting, the efficacy of this combined approach is not explored in CSAL. In this paper, we present CSAL-3D: a novel Cold-Start Active Learning framework for 3D medical image segmentation. Firstly, a CSAL-adapted SSL pipeline for ensemble-based uncertainty estimation and 3D-oriented feature extraction is proposed. Secondly, a novel Uncertainty-Reinforced Diversity Sampling (URDS) strategy is introduced, which synthesizes cluster representativeness and sample-level uncertainty in a hierarchical process. It can select samples that are both uncertain and representative in one shot. Experiments on Brain Tumor, Heart and Spleen organ segmentation tasks from CT or MRI 3D images show that CSAL-3D outperforms other state-of-the-art CSAL counterparts with an avergae Dice of 87.03%. The source code is available at https://github.com/HiLab-git/CSAL-3D.
 
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+Summary. An optional shortened abstract.
+summary: Active Learning (AL) is a promising solution in medical image segmentation to reduce annotation costs by selecting the most informative training samples. However, traditional warm-start AL methods rely on iterative querying and fail to address the cold-start dilemma. While Cold-Start Active Learning (CSAL) attempts to resolve this, current methods are limited to 2D images and neglect Self-Supervised Learning (SSL)’s potential for uncertainty estimation in AL. Moreover, while hybrid uncertainty-diversity sampling has been discussed in warm-start setting, the efficacy of this combined approach is not explored in CSAL. In this paper, we present CSAL-3D: a novel Cold-Start Active Learning framework for 3D medical image segmentation. Firstly, a CSAL-adapted SSL pipeline for ensemble-based uncertainty estimation and 3D-oriented feature extraction is proposed. Secondly, a novel Uncertainty-Reinforced Diversity Sampling (URDS) strategy is introduced, which synthesizes cluster representativeness and sample-level uncertainty in a hierarchical process. It can select samples that are both uncertain and representative in one shot. Experiments on Brain Tumor, Heart and Spleen organ segmentation tasks from CT or MRI 3D images show that CSAL-3D outperforms other state-of-the-art CSAL counterparts with an avergae Dice of 87.03%.
 
 tags:
   - Active Learning
