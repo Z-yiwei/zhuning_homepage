@@ -20,7 +20,7 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Instrumentation and Measurement *"
+publication: "*IEEE Transactions on Instrumentation and Measurement*"
 publication_short: "*IEEE TIM*"
 
 abstract: Vibration signal anomaly detection plays a vital role in predictive maintenance and fault diagnosis of helicopters. While deep learning-driven approaches that combine both time- and frequency-domain methods hold potential for anomaly detection, existing work on helicopter vibration signals remains limited. To this end, we propose TransGANomaly, an unsupervised dual-domain Gated-Transformer network based on adversarial frequency component reconstruction constraints for detecting anomalies in helicopter vibration signals. We construct a tri-branch adversarial training framework, employing the Transformer architecture to extract frequency-domain features and encode time-domain correlations. This enables the model to learn and reconstruct the original frequency-domain amplitude, phase information, and raw time-domain data of normal patterns. To enhance the sensitivity and robustness of adversarial training, we also introduce a novel embedding space constraint, which encourages the model to learn an optimal latent representation. We provide theoretical proof of the embedding constraint’s effectiveness in anomaly detection based on the manifold hypothesis and the maximum evidence lower bound (ELBO). Experiments on real-world helicopter vibration data demonstrate that the proposed model achieves an area under the curve (AUC) of 0.989 and an F1-score of 0.974, outperforming all state-of-the-art baselines.
