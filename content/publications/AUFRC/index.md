@@ -32,7 +32,7 @@ abstract: Photovoltaic (PV) power generation has risen prominently across the gl
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
