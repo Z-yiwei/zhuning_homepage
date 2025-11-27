@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-10-24
 type: landing
 
 design:
@@ -21,7 +21,7 @@ sections:
       headings:
         about: ''
         education: ''
-        interests: ''
+        interests: '' 
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
@@ -121,3 +121,5 @@ sections:
   #       css_class: 'bg-primary-300 dark:bg-primary-700'
   #       css_style: ''
 ---
+
+<a href='https://mapmyvisitors.com/web/1c0x4'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=m&d=Xirz2cLUW73WmrN7qSGyXm8RpJKPs_9B4R90kQUDM_M&co=2d78ad&ct=ffffff'/></a>
