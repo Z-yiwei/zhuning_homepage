@@ -122,8 +122,4 @@ sections:
   #       css_style: ''
 ---
 
----
-<a href='https://mapmyvisitors.com/web/1c0x4'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=m&d=Xirz2cLUW73WmrN7qSGyXm8RpJKPs_9B4R90kQUDM_M&co=2d78ad&ct=ffffff'/></a>
----
-
 
